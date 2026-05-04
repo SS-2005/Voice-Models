@@ -6,7 +6,7 @@ This benchmark was run on a small internal speaker-verification sample set desig
 voice-matching quality for speaker-to-name mapping.
 
 - Reported distinct speaker identities used for this write-up: **6**
-- Real human voices: **4**
+- Real human voices: **5**
 - Synthetic AI voice(s): **1**
 - Recordings captured in more realistic / noisy conditions: **2**
 - Approximate clip duration per source file: **20–40 seconds**
