@@ -1,0 +1,3 @@
+model,accuracy,avg_top1_score,avg_gap_top1_top2,num_test_clips
+ecapa,1.0,0.8802462741732597,0.695922483690083,8
+wavlm_plus_sv,1.0,0.9799710214138031,0.17542853206396103,8

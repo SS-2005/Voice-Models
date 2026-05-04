@@ -1,0 +1,7 @@
+speaker,strategy,num_raw_files,num_enroll_files,num_test_files
+Girl1,first_file_enroll_rest_test,2,1,1
+g2,single_file_first_20s_enroll_rest_test,1,1,2
+SID,first_file_enroll_rest_test,2,1,1
+ethan,single_file_first_20s_enroll_rest_test,1,1,1
+AI,first_file_enroll_rest_test,2,1,1
+p1,single_file_first_20s_enroll_rest_test,1,1,2
